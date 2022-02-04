@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.nav1{
+	background-color: #F1F1F1;
+	height: 22px;
+}
+.img1{
+	margin-bottom: 5px;
+}
+.p1{
+	font-family: 'Roboto', sans-serif;
+	font-size: 11px;
+}
+.a1{
+	text-decoration: underline;
+	font-family: 'Roboto', sans-serif;
+	font-size: 10px;
+	cursor: pointer;
+	border: solid tomato 4px;
+	padding: 0px;
+	display: inline-block;
+
+}
+.icn1{
+	height:20px;
+}
